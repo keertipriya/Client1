@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/mtech project/company/programs/hyperic-sigar-1.6.4/sigar-bin/lib/log4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/mtech project/company/programs/hyperic-sigar-1.6.4/sigar-bin/lib/sigar.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/mtech project/company/programs/mongo-java-driver-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/mtech project/company/programs/mail-1.4.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/mtech project/company/programs/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/mtech project/company/programs/new jars/smack.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/mtech project/company/programs/new jars/smackx.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/mtech project/company/programs/new jars/smackx-debug.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/mtech project/company/programs/new jars/smackx-jingle.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
