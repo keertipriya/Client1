@@ -14,6 +14,50 @@
           <target>1.7</target>
         </configuration>
       </plugin>
-    </plugins>
+				</plugins>
   </build>
+  <dependencies>
+  
+  <dependency>
+	<groupId>jivesoftware</groupId>
+	<artifactId>smack</artifactId>
+	<version>3.0.4</version>
+</dependency>
+<dependency>
+	<groupId>jivesoftware</groupId>
+	<artifactId>smackx</artifactId>
+	<version>3.1.0</version>
+</dependency>
+<dependency>
+	<groupId>org.igniterealtime.smack</groupId>
+	<artifactId>smackx-debug</artifactId>
+	<version>3.2.1</version>
+</dependency>
+<dependency>
+	<groupId>org.igniterealtime.smack</groupId>
+	<artifactId>smackx-jingle</artifactId>
+	<version>3.2.1</version>
+</dependency>
+<dependency>
+	<groupId>javax.mail</groupId>
+	<artifactId>mail</artifactId>
+	<version>1.4</version>
+</dependency>
+<dependency>
+	<groupId>javax.activation</groupId>
+	<artifactId>activation</artifactId>
+	<version>1.1.1</version>
+</dependency>
+<dependency>
+	<groupId>org.mongodb</groupId>
+	<artifactId>mongo-java-driver</artifactId>
+	<version>2.11.0</version>
+</dependency><dependency>
+	<groupId>org.fusesource</groupId>
+	<artifactId>sigar</artifactId>
+	<version>1.6.4</version>
+</dependency>
+
+
+  </dependencies>
 </project>
